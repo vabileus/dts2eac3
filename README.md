@@ -170,4 +170,4 @@ The whole tool is built on the Go standard library — no `pterm`, no `beeep`, n
 
 ## 📜 License
 
-MIT © yourname
+MIT © vabileus
